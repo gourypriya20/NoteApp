@@ -1,6 +1,4 @@
 # NoteApp
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/gourypriya20/NoteApp)
-
 NoteApp is a full-stack web application for creating, managing, and storing notes. It features a clean, responsive user interface and a robust backend built with Node.js and Express. The application leverages a MERN stack (MongoDB, Express, React, Node.js) and includes features like API rate limiting with Upstash Redis.
 
 ## Features
