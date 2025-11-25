@@ -173,6 +173,11 @@ Rate Limiting:
 * redis - key value store - in-memory data structure store used as a database, cache, and message broker
 
 
+Pushing to git :
+- terminal >> git init - initializes a empty repo
+
+
+
 
 
 
